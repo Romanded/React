@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(0deg, #ffe4fa 0%, rgba(255, 245, 253, 0) 100%);
+}
+
+.sort {
+    height: 20px;
+}
